@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+}
+
+.edit{
+  align-items: center;
+  justify-content: center;
+  padding-left: 650px;
+  padding-top: 30px;
+
+  >button{
+    width: 100px;
+    height: 35px;
+    background-color: rgb(235, 80, 80);
+    border: 1px solid gray;
+  }
+
+  .edit-1{
+    margin-top: 30px;
+    padding-bottom: 10px;
+  }
+
+  .edit-2{
+    margin-top: 30px;
+
+    >button{
+      width: 100px;
+      height: 50px;
+      background-color: rgb(235, 80, 80);
+      border: 1px solid gray;
+      border-radius: 5px;
+    }
+  }
+
+  .edit-3{
+    margin-top: 40px;
+  }
+
+  .edit-5{
+    width: 100px;
+      height: 50px;
+      background-color: rgb(235, 80, 80);
+      border: 1px solid gray;
+      border-radius: 5px;
+  }
+}
